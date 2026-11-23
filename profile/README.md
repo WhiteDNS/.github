@@ -29,26 +29,24 @@
   <p><a href="https://github.com/WhiteDNS/WhiteVPN">Android &amp; TV</a> · <a href="https://github.com/WhiteDNS/WhiteVPN-Desktop">Desktop</a></p>
 </td>
 <td align="center" valign="top" width="50%">
-  <a href="https://whitedns.online/tools/whiteaesther/"><img src="./assets/whiteaesther-suite.jpg" width="320" alt="WhiteAesther running on Android and desktop"></a>
-  <p><strong>WhiteAesther</strong></p>
-  <p>Find reachable connection routes with the Aether engine.</p>
-  <p><a href="https://github.com/WhiteDNS/WhiteAestherMobile/releases/latest"><img src="https://img.shields.io/github/v/release/WhiteDNS/WhiteAestherMobile?label=Android&amp;color=067a5c" alt="Latest stable WhiteAesther Android release"></a></p>
-  <p><a href="https://github.com/WhiteDNS/WhiteAestherMobile">Android</a> · <a href="https://github.com/WhiteDNS/WhiteAesther">Desktop</a></p>
-</td>
-</tr>
-<tr>
-<td align="center" valign="top" width="50%">
-  <a href="https://whitedns.online/tools/whitedns/"><img src="./assets/whitedns-suite.jpg" width="320" alt="WhiteDNS tunnel clients on desktop and Android"></a>
-  <p><strong>WhiteDNS</strong></p>
-  <p>Connect over DNS tunnels when your network is restricted.</p>
-  <p><a href="https://github.com/WhiteDNS/WhiteDNS-Android/releases/latest"><img src="https://img.shields.io/github/v/release/WhiteDNS/WhiteDNS-Android?label=Android&amp;color=067a5c" alt="Latest stable WhiteDNS Android release"></a></p>
-  <p><a href="https://github.com/WhiteDNS/WhiteDNS-Android">Android</a> · <a href="https://github.com/WhiteDNS/WhiteDNS-Desktop">Desktop</a></p>
-</td>
-<td align="center" valign="top" width="50%">
   <a href="https://whitedns.online/tools/scanner/"><img src="./assets/scanner-orbit.jpg" width="320" alt="Clean IP and Resolver Finder artwork with the WhiteDNS Go engine emblem"></a>
   <p><strong>Clean IP &amp; Resolver Finder</strong></p>
   <p>Check which IP addresses and DNS resolvers your network can reach.</p>
   <p><a href="https://github.com/WhiteDNS/WhiteDNS-cleanip-finder/releases">Downloads</a> · <a href="https://github.com/WhiteDNS/WhiteDNS-cleanip-finder">Repository</a></p>
+</td>
+</tr>
+<tr>
+<td align="center" valign="top" width="50%">
+  <p><strong><a href="https://whitedns.online/tools/whiteaesther/">WhiteAesther</a></strong></p>
+  <p>Find reachable connection routes with the Aether engine.</p>
+  <p><a href="https://github.com/WhiteDNS/WhiteAestherMobile/releases/latest"><img src="https://img.shields.io/github/v/release/WhiteDNS/WhiteAestherMobile?label=Android&amp;color=067a5c" alt="Latest stable WhiteAesther Android release"></a></p>
+  <p><a href="https://github.com/WhiteDNS/WhiteAestherMobile">Android</a> · <a href="https://github.com/WhiteDNS/WhiteAesther">Desktop</a></p>
+</td>
+<td align="center" valign="top" width="50%">
+  <p><strong><a href="https://whitedns.online/tools/whitedns/">WhiteDNS</a></strong></p>
+  <p>Connect over DNS tunnels when your network is restricted.</p>
+  <p><a href="https://github.com/WhiteDNS/WhiteDNS-Android/releases/latest"><img src="https://img.shields.io/github/v/release/WhiteDNS/WhiteDNS-Android?label=Android&amp;color=067a5c" alt="Latest stable WhiteDNS Android release"></a></p>
+  <p><a href="https://github.com/WhiteDNS/WhiteDNS-Android">Android</a> · <a href="https://github.com/WhiteDNS/WhiteDNS-Desktop">Desktop</a></p>
 </td>
 </tr>
 </table>
