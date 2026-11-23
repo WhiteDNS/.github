@@ -23,14 +23,14 @@
 <tr>
 <td align="center" valign="top" width="50%">
   <a href="https://whitedns.online/tools/whitevpn/"><img src="./assets/whitevpn-mobile.jpg" width="320" alt="WhiteVPN Android app showing the connection screen"></a>
-  <h3>WhiteVPN</h3>
+  <p><strong>WhiteVPN</strong></p>
   <p>VPN and proxy client with Mihomo, subscriptions, and connection chaining.</p>
   <p><a href="https://github.com/WhiteDNS/WhiteVPN/releases/latest"><img src="https://img.shields.io/github/v/release/WhiteDNS/WhiteVPN?label=Android&amp;color=067a5c" alt="Latest stable WhiteVPN Android release"></a></p>
   <p><a href="https://github.com/WhiteDNS/WhiteVPN">Android &amp; TV</a> · <a href="https://github.com/WhiteDNS/WhiteVPN-Desktop">Desktop</a></p>
 </td>
 <td align="center" valign="top" width="50%">
   <a href="https://whitedns.online/tools/whiteaesther/"><img src="./assets/whiteaesther-suite.jpg" width="320" alt="WhiteAesther running on Android and desktop"></a>
-  <h3>WhiteAesther</h3>
+  <p><strong>WhiteAesther</strong></p>
   <p>Find reachable connection routes with the Aether engine.</p>
   <p><a href="https://github.com/WhiteDNS/WhiteAestherMobile/releases/latest"><img src="https://img.shields.io/github/v/release/WhiteDNS/WhiteAestherMobile?label=Android&amp;color=067a5c" alt="Latest stable WhiteAesther Android release"></a></p>
   <p><a href="https://github.com/WhiteDNS/WhiteAestherMobile">Android</a> · <a href="https://github.com/WhiteDNS/WhiteAesther">Desktop</a></p>
@@ -39,14 +39,14 @@
 <tr>
 <td align="center" valign="top" width="50%">
   <a href="https://whitedns.online/tools/whitedns/"><img src="./assets/whitedns-suite.jpg" width="320" alt="WhiteDNS tunnel clients on desktop and Android"></a>
-  <h3>WhiteDNS</h3>
+  <p><strong>WhiteDNS</strong></p>
   <p>Connect over DNS tunnels when your network is restricted.</p>
   <p><a href="https://github.com/WhiteDNS/WhiteDNS-Android/releases/latest"><img src="https://img.shields.io/github/v/release/WhiteDNS/WhiteDNS-Android?label=Android&amp;color=067a5c" alt="Latest stable WhiteDNS Android release"></a></p>
   <p><a href="https://github.com/WhiteDNS/WhiteDNS-Android">Android</a> · <a href="https://github.com/WhiteDNS/WhiteDNS-Desktop">Desktop</a></p>
 </td>
 <td align="center" valign="top" width="50%">
   <a href="https://whitedns.online/tools/scanner/"><img src="./assets/scanner-orbit.jpg" width="320" alt="Clean IP and Resolver Finder artwork with the WhiteDNS Go engine emblem"></a>
-  <h3>Clean IP &amp; Resolver Finder</h3>
+  <p><strong>Clean IP &amp; Resolver Finder</strong></p>
   <p>Check which IP addresses and DNS resolvers your network can reach.</p>
   <p><a href="https://github.com/WhiteDNS/WhiteDNS-cleanip-finder/releases">Downloads</a> · <a href="https://github.com/WhiteDNS/WhiteDNS-cleanip-finder">Repository</a></p>
 </td>
@@ -69,13 +69,13 @@
 <tr>
 <td align="center" valign="top" width="50%">
   <a href="https://whitedns.online/tools/coreforge/"><img src="./assets/coreforge-ios.jpg" width="320" alt="CoreForge VPN app on an iPhone"></a>
-  <h3>CoreForge</h3>
+  <p><strong>CoreForge</strong></p>
   <p>VPN and proxy client for iPhone and iPad.</p>
   <p><a href="https://whitedns.online/tools/coreforge/">TestFlight guide</a></p>
 </td>
 <td align="center" valign="top" width="50%">
   <a href="https://whitedns.online/tools/whitegame/"><img src="./assets/whitegame-suite.jpg" width="320" alt="WhiteGame on Android showing game network diagnostics"></a>
-  <h3>WhiteGame</h3>
+  <p><strong>WhiteGame</strong></p>
   <p>Measure ping, jitter, and packet loss for games on Android.</p>
   <p><a href="https://whitedns.online/tools/whitegame/">Downloads &amp; guide</a></p>
 </td>
